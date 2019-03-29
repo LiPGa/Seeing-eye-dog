@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\66f61e5723eea2827f38783341f5abba3a799ab7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_e812d7e0d388d99a5b5cdf8931fafb46cef075e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\0474591181777432e2b66954f228b3523c8bc8c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_1aa7676b8bef138f597a0d0b9fa58fbe27696053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\37ceed2bf0c0025d3e5de9f4fea4f0aefcf9360e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_cc4d266853e602d52e15759a7391cd59d1c24956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\b963413f61159fced60e01707f41b313f28d006f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_47aac8d361343023f277eafc92670d29c5bcd7e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_225121e8c2c9fc1e6c2cd809e4c1b4a8941529d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\e6a3f9999e09b2ab8318359563b1e078d3f30ba7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_a36295ba64473091e967891684dcd587a5a8fca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\9def752648eb5800822d269dcbe6f0a82738c062\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_8e85ac68e6c41b1a7e3c12df71869f1729949767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4964fd9708e43348ae22e7875e97c810a1359bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\a878ab4bda9b50fbd960c78d865106902117be0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_f91b50d61ccf639bea03f28a212057d91799e440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\1d60157f38b2b6b6eb4ce823037d7bdb163a4eb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_8a00604ec41348d4195f66c4173ca400bdc652c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\946154d4a728566095ed87eafc3fdb1085c33a4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_ee2f45dcd0d9b4b5085882cefcda6e6b830c313a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\26075\Desktop\yuyinn\yuyin\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_8b41a0d267b6b68aef8a9de60105bbb8d2d6b2f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1b43d5ccb56ac3d35b465ae5e9be45b1944203cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\yuyinn\yuyin\libs\AMap_Location_V3.4.0_20170427.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa2675ac2111742d045390a97dd39ea48d957b87">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\AMap_Location_V3.4.0_20170427_00093578941b1c474d4f8ee22969dc44fcfefb62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78e18ea110184680d5d317a3d77dfff7592e3c0d">
+        <dex dex="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b7ec8c2fb6a050ac6f20a514707b8cedb6aa1b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\fb3f4b036b1287b24fdc7c2635b7db500cfa6f35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_3fc52a0b8ccd72bc61c835ac9673a4c924f75aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\39da91d316d7390b1275a76584a64e978c8c30b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_9dd7b3795323312a7c43a831229c8998fb3df8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\yuyinn\yuyin\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4f11330834f00ecbf76acef91a5e3be24b99f9fd">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\Msc_9d63a71e815c118548b101395184fe1db2a0a6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\ed4c34e759d7ede66831a5371e9683f4b3c32b79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_49e90091b41b295247ca9dd4782f0cc5c9af8b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\ea40420feb29a615a6fd9a777d5acd58391e2d3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_fac0569f6ea2398ac69a3fff36bd965beb3f29d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\yuyinn\yuyin\libs\Amap_2DMap_V4.2.0_20170209.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="316c66b6aa80d81bf3c53ff67587568de136782f">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\Amap_2DMap_V4.2.0_20170209_fa2e2e2aa319e2ef1896ae0844dc0fe6f361764b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.android\build-cache\47f0f60df56553e1fa92b4c3d92e43ad59ba3e9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\classes_62889718c523ce17097a5c4ed387bbc2c30bdfcb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\26075\Desktop\yuyinn\yuyin\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="120dc951cabdc3945ab294c90ae4404bbe6aedfd">
+        <dex dex="C:\Users\26075\Desktop\yuyinn\yuyin\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_339c1b2fc7f81f1f5ff9e2973fa6a66040d1eba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\yuyinn\yuyin\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="120dc951cabdc3945ab294c90ae4404bbe6aedfd">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\Sunflower_ced0e1bdba28547b82f7b991facd48c4918171af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\26075\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\yuyinn\yuyin\build\intermediates\pre-dexed\debug\gson-2.7_bd3793a19d425b27a0cd527888af2a153357b50f.jar" />
+    </item>
+
+</items>

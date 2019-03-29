@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Seeing-Eye Dog"</string>
+    <string name="edit_message">请输入想去的地点</string>
+    <string name="menu_notice">This is Menu</string>
+    <string name="cpyright">Copyright©2017\nPowered by Seeing-Eye Dog\nAll Rights Reserved.</string>
+    <string name="mmber">| Group Members |</string>
+    <string name="name">李聆嘉\n罗雨\n王琢\n闫璐</string>
+    <string name="tech">Technology Support\n科大讯飞\n高德地图</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="large_text">
+        "\nSeeing eye dog——the third eye for the blind\n\n\n"
+        "   With the rapid development of mobile applications，Android—based mobile applications constantly "
+        "innovation，various Android application store in the number of applications is"
+        " increasing．But how to use innovative applications to help people with disabilities，is "
+        "currently a major focus of the problem. \n\n"
+        "   Nowadays, apps designed to meet the special needs "
+        "of blind people are restricted in numbers, and our project—“Seeing eye dog” is targeted at"
+        "such need to offer a third eye for the blind people. \n\n"
+
+        "   Limited by the time, many additional functions are not be able to implemented. "
+        "If added, "Seeing-Eye dog" app will undoubtedly have more practical use and enrich"
+        "the life of the user groups to a larger degree. We hope to have the opportunity to "
+        "turn these functions into realities in the future. \n\n"
+    "1. More services closely related to the life of the blind can be added. For example, the restaurants and entertainment facilities nearby to enrich the otherwise dull life of the blind people.\n\n"
+    "2. Personally made service can be added to be more intellect, and suit users' demands better.\n\n"
+    "3. Share function can be added to enable the blind to share their travelling path among their friends and families\n\n"
+
+    "       To sum up, technology will improve and enrich people's life. We should tap the potential"
+        "of the technology to make more products better satisfying the special need of those "
+        "underprivileged who have long been easily ignored. And only by doing so,"
+        "can the technology be made full use of, thus eventually changing the world into a better place for all humanity. \n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

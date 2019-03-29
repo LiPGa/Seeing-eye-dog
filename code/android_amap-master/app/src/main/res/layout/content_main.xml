@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.a60213.getyourlocation.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <EditText
+        android:id="@+id/input_time_interval"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="19dp"
+        android:inputType="number"
+        android:hint="interger"
+        android:gravity="center"
+        android:textColorHint="@color/lightgray"
+        android:background="@null"
+        android:layout_above="@+id/button_confirm_time_interval"
+        android:layout_alignStart="@+id/view"
+        android:layout_alignEnd="@+id/text_time_interval_title" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="@color/darkgray"
+        android:id="@+id/view"
+        android:layout_alignBottom="@+id/input_time_interval"
+        android:layout_alignStart="@+id/text_time_interval_title"
+        android:layout_alignEnd="@+id/text_time_interval_title" />
+
+    <TextView
+        android:id="@+id/text_longitude_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="count up"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:layout_above="@+id/text_longitude"
+        android:layout_alignStart="@+id/button_confirm_time_interval" />
+
+    <TextView
+        android:id="@+id/text_time_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textSize="25dp"
+        android:layout_above="@+id/text_time_interval_title"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button_confirm_time_interval"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm"
+        android:onClick="button_confirm_click"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Position Track"
+        android:textSize="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/text_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="information"
+        android:gravity="center"
+        android:layout_below="@+id/textView4"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/text_time_interval_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time Interval"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_above="@+id/input_time_interval"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:id="@+id/button_stop"
+        android:onClick="onStopButtonClick"
+        android:layout_above="@+id/text_time_count"
+        android:layout_toEndOf="@+id/text_time_count" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:id="@+id/button_start"
+        android:onClick="onStartButtonClick"
+        android:layout_above="@+id/text_time_count"
+        android:layout_toStartOf="@+id/text_time_count" />
+
+    <TextView
+        android:id="@+id/text_longitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123123123123"
+        android:textSize="20dp"
+        android:layout_above="@+id/button_stop"
+        android:layout_alignStart="@+id/text_latitude" />
+
+    <TextView
+        android:id="@+id/text_latitude_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="count down"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:layout_below="@+id/text_info"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp" />
+
+    <TextView
+        android:id="@+id/text_latitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123123123123"
+        android:textSize="20dp"
+        android:layout_below="@+id/text_latitude_title"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GPS"
+        android:id="@+id/button_switch"
+        android:onClick="onSwitchButtonClick"
+        android:layout_marginBottom="23dp"
+        android:layout_above="@+id/text_longitude_title"
+        android:layout_alignStart="@+id/text_longitude_title" />
+
+</RelativeLayout>

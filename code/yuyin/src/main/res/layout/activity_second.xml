@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.handsome.yuyin.SecondActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/companyyy"
+        android:id="@+id/imageView"
+        android:layout_marginTop="22dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/memeber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:background="?attr/colorButtonNormal"
+        android:text="@string/mmber"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="?android:attr/panelBackground"
+        android:text="@string/name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem"
+        android:layout_below="@+id/memeber"
+        android:gravity="center"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tech"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.Design.Snackbar.Message"
+        android:id="@+id/textView2"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/about"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cpyright"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="221dp"
+        android:layout_marginTop="66dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/memeber"
+        android:layout_alignStart="@+id/memeber" />
+</RelativeLayout>
